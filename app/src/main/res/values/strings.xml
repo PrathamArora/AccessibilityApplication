@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AccessibilityApplication</string>
+    <string name="login">Login</string>
+    <string name="login_page">You are on the login page</string>
+    <string name="e_mail_id">Enter your E-mail ID</string>
+    <string name="enter_your_e_mail_id_here">Enter your E-mail ID here</string>
+    <string name="you_are_on_the_registration_page_enter_your_details_below">you are on the registration page. Enter your details below</string>
+    <string name="registration_page">Registration page</string>
+    <string name="back_button">Back Button</string>
+    <string name="password">Enter your password</string>
+    <string name="register_now">Register Now</string>
+    <string name="if_you_do_not_have_an_account_please_register_here">If you do not have an account, please register here</string>
+    <string name="enter_your_password_here">Enter your password here</string>
+    <string name="if_you_have_filled_your_credentials_correctly_click_this_button_to_login">If you have filled your credentials correctly, click this button to login</string>
+    <string name="if_you_have_filled_all_the_details_click_here_to_register_yourself">If you have filled all the details, click this button to register yourself</string>
+    <string name="enter_your_full_name_here">Enter your full name here</string>
+    <string name="full_name">Enter your Full name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="re_type_your_password_for_confirmation">Re-type your password for confirmation</string>
+    <string name="you_are_on_the_home_screen">You are on the Home Screen</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="this_is_your_profile_picture">This is your profile picture</string>
+    <string name="name_random_arora">Name : Random Arora</string>
+    <string name="email_random_domain_com">Email : random@domain.com</string>
+    <string name="name">Name :</string>
+    <string name="email_id">Email ID :</string>
+</resources>
